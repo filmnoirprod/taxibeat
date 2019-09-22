@@ -7,3 +7,4 @@ This application was impelented as part of the Artificial Intelligence course (7
 The actual input data : map coordinates , streets and road information such as road lanes , traffic jam , road direction etc are part of the https://www.openstreetmap.org dataset .
 
 ### Application Launch and time efficiency 
+![alt text](https://github.com/filmnoirprod/taxibeat/blob/master/images/runt.jpg)
